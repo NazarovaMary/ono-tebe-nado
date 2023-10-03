@@ -100,8 +100,6 @@
 
 .aligned-text_center {
   text-align: center;
-  width: 100%;
-  max-width: 1310px;
 }
 .no-letter-spacing {
   letter-spacing: 0;
@@ -110,10 +108,10 @@
   letter-spacing: 0.6em;
 }
 
-.bet-button {
+.button {
   color: #fff;
   padding: 12px 32px;
-  border: 1px solid #fff;
+  box-shadow: 0 0 5px currentColor;
   text-decoration: none;
   font-size: 22px;
   font-weight: 400;
@@ -122,7 +120,7 @@
   border-radius: 0;
 }
 
-.bet-button:hover {
+.button:hover {
   background: goldenrod;
 }
 
@@ -177,6 +175,7 @@
 
 .card-link {
   height: 100%;
+  text-decoration: none;
 }
 
 .card .overlay {
