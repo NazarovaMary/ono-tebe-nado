@@ -80,7 +80,8 @@
   text-transform: uppercase;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 20px;
+  line-height: 115px;
 }
 
 .cover__description {
