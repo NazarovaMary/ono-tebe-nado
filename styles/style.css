@@ -81,14 +81,16 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
+  line-height: 1.15;
 }
 
 .cover__description {
   position: relative;
   z-index: 0;
   display: flex;
-  margin-top: 135px;
-  justify-content: end;
+  gap: 78px;
+  padding: 136px 0 0;
+  justify-content: flex-end;
   align-items: center;
 }
 
