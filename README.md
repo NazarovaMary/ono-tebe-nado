@@ -1,13 +1,13 @@
-https://github.com/MGKrupkina/ono-tebe-nado.git
+Ссылка проекта на github - https://github.com/MGKrupkina/ono-tebe-nado.git
 
-Вёрстка макета сайта аукциона вещей, в которые никто не верил "Оно тебе надо".
+Вёрстка макета сайта аукциона вещей, в которые никто не верил "Оно тебе надо"
 
 Ссылки на файлы проекта:
 
-<a href="https://daniilshat.ru/" target="_blank">Daniil</a>
-шрифты (fonts);
-изображения (images);
-стили (styles);
-файл пропуска файлов при коммитах (.gitignore);
-readme-файл;
-html-страница сайта (index.html).
+html-страница сайта (<a href="https://github.com/MGKrupkina/ono-tebe-nado/blob/main/index.html" target="_blank">index.html</a>)
+шрифты (<a href="https://github.com/MGKrupkina/ono-tebe-nado/tree/main/fonts" target="_blank">fonts</a>)
+изображения (<a href="https://github.com/MGKrupkina/ono-tebe-nado/tree/main/images" target="_blank">images</a>)
+стили (<a href="https://github.com/MGKrupkina/ono-tebe-nado/blob/main/styles/style.css" target="_blank">styles.css</a>)
+автотесты (<a href="https://github.com/MGKrupkina/ono-tebe-nado/blob/main/.github/workflows/tests.yml" target="_blank">tests.yml</a>)
+
+
