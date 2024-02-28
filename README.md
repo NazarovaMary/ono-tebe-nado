@@ -15,3 +15,6 @@ html-страница сайта (<a href="https://github.com/MGKrupkina/ono-teb
 автотесты (<a href="https://github.com/MGKrupkina/ono-tebe-nado/blob/main/.github/workflows/tests.yml" target="_blank">tests.yml</a>)
 
 
+Макет:
+
+![#2 Оно тебе надо - Главная](https://github.com/MGKrupkina/ono-tebe-nado/assets/145542673/4e924329-42cf-4b71-aee9-672be5a3388b)
