@@ -15,6 +15,6 @@ html-страница сайта (<a href="https://github.com/MGKrupkina/ono-teb
 автотесты (<a href="https://github.com/MGKrupkina/ono-tebe-nado/blob/main/.github/workflows/tests.yml" target="_blank">tests.yml</a>)
 
 
-Макет:
+<a href="https://www.figma.com/file/unBuocGdAfnegz1sE0MknV/%232-Оно-тебе-надо?type=design&node-id=0-1&mode=design" target="_blank">Макет (перейти по ссылке)</a>
 
 ![#2 Оно тебе надо - Главная](https://github.com/MGKrupkina/ono-tebe-nado/assets/145542673/4e924329-42cf-4b71-aee9-672be5a3388b)
