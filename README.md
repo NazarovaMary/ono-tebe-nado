@@ -4,7 +4,7 @@ https://github.com/MGKrupkina/ono-tebe-nado.git
 
 Ссылки на файлы проекта:
 
-автотесты (<span class ="sb17_b"> <a href="https://github.com/MGKrupkina/ono-tebe-nado/blob/main/index.html"target="_blank">test.yml</a></span>);
+<a href="https://daniilshat.ru/" target="_blank">Daniil</a>
 шрифты (fonts);
 изображения (images);
 стили (styles);
