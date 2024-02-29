@@ -1,6 +1,8 @@
-Ссылка проекта на github - https://github.com/MGKrupkina/ono-tebe-nado.git
-
 Вёрстка макета сайта аукциона вещей, в которые никто не верил "Оно тебе надо"
+
+<h3>Ссылка проекта на github - </h3>
+
+https://github.com/MGKrupkina/ono-tebe-nado.git
 
 <h3>Ссылки на файлы проекта:</h3>
 
@@ -15,6 +17,6 @@ html-страница сайта (<a href="https://github.com/MGKrupkina/ono-teb
 автотесты (<a href="https://github.com/MGKrupkina/ono-tebe-nado/blob/main/.github/workflows/tests.yml" target="_blank">tests.yml</a>)
 
 
-<a href="https://www.figma.com/file/unBuocGdAfnegz1sE0MknV/%232-Оно-тебе-надо?type=design&node-id=0-1&mode=design" target="_blank">Макет (перейти по ссылке)</a>
+<h3><a href="https://www.figma.com/file/unBuocGdAfnegz1sE0MknV/%232-Оно-тебе-надо?type=design&node-id=0-1&mode=design" target="_blank">Макет (перейти по ссылке)</a></h3>
 
 ![#2 Оно тебе надо - Главная](https://github.com/MGKrupkina/ono-tebe-nado/assets/145542673/4e924329-42cf-4b71-aee9-672be5a3388b)
