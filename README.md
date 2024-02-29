@@ -2,7 +2,7 @@
 
 Вёрстка макета сайта аукциона вещей, в которые никто не верил "Оно тебе надо"
 
-Ссылки на файлы проекта:
+#Ссылки на файлы проекта:
 
 html-страница сайта (<a href="https://github.com/MGKrupkina/ono-tebe-nado/blob/main/index.html" target="_blank">index.html</a>)
 
